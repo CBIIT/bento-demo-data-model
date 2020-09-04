@@ -1,0 +1,51 @@
+type	study_subject.study_subject_id	demographic_data_id	age_at_index	menopause_status	vital_status	cause_of_death	race	ethnicity	gender	survival_time
+demographic_data	BENTO-CASE-1	BENTO-DEMO-1	47	Postmenopausal	Dead	Cardiovascular disease	Black or African American	Not Hispanic or Latino	Female	3378
+demographic_data	BENTO-CASE-2	BENTO-DEMO-2	48	Postmenopausal	Dead	Other chronic disease	Native Hawaiian or Other Pacific Islander	Not Reported	Female	2959
+demographic_data	BENTO-CASE-3	BENTO-DEMO-3	51	Premenopausal	Alive	Not_applicable	American Indian or Alaska Native	Not Hispanic or Latino	Female	2528
+demographic_data	BENTO-CASE-4	BENTO-DEMO-4	51	Postmenopausal	Dead	Other chronic disease	Asian	Not Hispanic or Latino	Female	24
+demographic_data	BENTO-CASE-5	BENTO-DEMO-5	49	Premenopausal	Dead	Other chronic disease	Black or African American	Not Reported	Female	2922
+demographic_data	BENTO-CASE-6	BENTO-DEMO-6	34	Premenopausal	Dead	Breast cancer	White	Hispanic or Latino	Female	3765
+demographic_data	BENTO-CASE-7	BENTO-DEMO-7	70	Postmenopausal	Dead	Breast cancer	Not Reported	Not Hispanic or Latino	Female	1049
+demographic_data	BENTO-CASE-8	BENTO-DEMO-8	45	Postmenopausal	Dead	Other	Multirace	Not Hispanic or Latino	Female	2934
+demographic_data	BENTO-CASE-9	BENTO-DEMO-9	79	Postmenopausal	Dead	Unknown	Multirace	Not Hispanic or Latino	Female	2016
+demographic_data	BENTO-CASE-10	BENTO-DEMO-10	79	Postmenopausal	Alive	Not_applicable	American Indian or Alaska Native	Not Hispanic or Latino	Female	3538
+demographic_data	BENTO-CASE-11	BENTO-DEMO-11	45	Premenopausal	Dead	Unknown	Asian	Hispanic or Latino	Female	3624
+demographic_data	BENTO-CASE-12	BENTO-DEMO-12	49	Premenopausal	Dead	Other cancer	Native Hawaiian or Other Pacific Islander	Not Reported	Female	3517
+demographic_data	BENTO-CASE-13	BENTO-DEMO-13	87	Postmenopausal	Dead	Protocol treatment	Not Reported	Hispanic or Latino	Female	3273
+demographic_data	BENTO-CASE-14	BENTO-DEMO-14	40	Postmenopausal	Dead	Other chronic disease	Asian	Not Reported	Female	687
+demographic_data	BENTO-CASE-15	BENTO-DEMO-15	39	Postmenopausal	Dead	Protocol treatment	Asian	Hispanic or Latino	Female	1378
+demographic_data	BENTO-CASE-16	BENTO-DEMO-16	39	Premenopausal	Dead	Cardiovascular disease	White	Hispanic or Latino	Female	3590
+demographic_data	BENTO-CASE-17	BENTO-DEMO-17	59	Premenopausal	Dead	Cardiovascular disease	Native Hawaiian or Other Pacific Islander	Hispanic or Latino	Female	1797
+demographic_data	BENTO-CASE-18	BENTO-DEMO-18	43	Postmenopausal	Dead	Other	Multirace	Not Hispanic or Latino	Female	1771
+demographic_data	BENTO-CASE-19	BENTO-DEMO-19	95	Postmenopausal	Dead	Protocol treatment	Black or African American	Not Reported	Female	1975
+demographic_data	BENTO-CASE-20	BENTO-DEMO-20	31	Premenopausal	Dead	Other chronic disease	White	Hispanic or Latino	Female	2720
+demographic_data	BENTO-CASE-21	BENTO-DEMO-21	73	Postmenopausal	Dead	Other	Asian	Not Reported	Female	1776
+demographic_data	BENTO-CASE-22	BENTO-DEMO-22	37	Premenopausal	Alive	Not_applicable	White	Not Hispanic or Latino	Female	2501
+demographic_data	BENTO-CASE-23	BENTO-DEMO-23	44	Postmenopausal	Dead	Unknown	American Indian or Alaska Native	Hispanic or Latino	Female	3167
+demographic_data	BENTO-CASE-24	BENTO-DEMO-24	58	Premenopausal	Dead	Other cancer	American Indian or Alaska Native	Not Reported	Female	3653
+demographic_data	BENTO-CASE-25	BENTO-DEMO-25	29	Premenopausal	Dead	Other	Native Hawaiian or Other Pacific Islander	Not Reported	Female	3320
+demographic_data	BENTO-CASE-26	BENTO-DEMO-26	43	Premenopausal	Dead	Other	Black or African American	Hispanic or Latino	Female	1991
+demographic_data	BENTO-CASE-27	BENTO-DEMO-27	56	Postmenopausal	Dead	Unknown	Asian	Not Hispanic or Latino	Female	2366
+demographic_data	BENTO-CASE-28	BENTO-DEMO-28	37	Premenopausal	Dead	Other chronic disease	Asian	Not Hispanic or Latino	Female	1768
+demographic_data	BENTO-CASE-29	BENTO-DEMO-29	54	Postmenopausal	Dead	Other chronic disease	Not Reported	Not Hispanic or Latino	Female	867
+demographic_data	BENTO-CASE-30	BENTO-DEMO-30	25	Premenopausal	Dead	Cardiovascular disease	Not Reported	Not Hispanic or Latino	Female	2255
+demographic_data	BENTO-CASE-31	BENTO-DEMO-31	43	Premenopausal	Dead	Cardiovascular disease	American Indian or Alaska Native	Hispanic or Latino	Female	1826
+demographic_data	BENTO-CASE-32	BENTO-DEMO-32	52	Postmenopausal	Dead	Cardiovascular disease	Black or African American	Not Hispanic or Latino	Female	2461
+demographic_data	BENTO-CASE-33	BENTO-DEMO-33	40	Postmenopausal	Dead	Other	Native Hawaiian or Other Pacific Islander	Hispanic or Latino	Female	3305
+demographic_data	BENTO-CASE-34	BENTO-DEMO-34	37	Postmenopausal	Dead	Other	Native Hawaiian or Other Pacific Islander	Not Hispanic or Latino	Female	2093
+demographic_data	BENTO-CASE-35	BENTO-DEMO-35	58	Postmenopausal	Alive	Not_applicable	Multirace	Not Hispanic or Latino	Female	3379
+demographic_data	BENTO-CASE-36	BENTO-DEMO-36	42	Postmenopausal	Dead	Other cancer	Black or African American	Hispanic or Latino	Female	3986
+demographic_data	BENTO-CASE-37	BENTO-DEMO-37	45	Postmenopausal	Dead	Unknown	White	Not Reported	Female	2460
+demographic_data	BENTO-CASE-38	BENTO-DEMO-38	28	Premenopausal	Alive	Not_applicable	Black or African American	Not Reported	Female	2863
+demographic_data	BENTO-CASE-39	BENTO-DEMO-39	70	Postmenopausal	Dead	Protocol treatment	White	Not Hispanic or Latino	Female	930
+demographic_data	BENTO-CASE-40	BENTO-DEMO-40	76	Postmenopausal	Dead	Protocol treatment	White	Not Hispanic or Latino	Female	3183
+demographic_data	BENTO-CASE-41	BENTO-DEMO-41	50	Postmenopausal	Dead	Cardiovascular disease	Black or African American	Not Hispanic or Latino	Female	3036
+demographic_data	BENTO-CASE-42	BENTO-DEMO-42	41	Premenopausal	Dead	Breast cancer	Black or African American	Not Hispanic or Latino	Female	4007
+demographic_data	BENTO-CASE-43	BENTO-DEMO-43	49	Premenopausal	Dead	Other chronic disease	Asian	Not Hispanic or Latino	Female	3317
+demographic_data	BENTO-CASE-44	BENTO-DEMO-44	40	Premenopausal	Alive	Not_applicable	Asian	Hispanic or Latino	Female	1652
+demographic_data	BENTO-CASE-45	BENTO-DEMO-45	35	Premenopausal	Alive	Not_applicable	American Indian or Alaska Native	Not Reported	Female	3974
+demographic_data	BENTO-CASE-46	BENTO-DEMO-46	37	Postmenopausal	Dead	Unknown	Asian	Hispanic or Latino	Female	2039
+demographic_data	BENTO-CASE-47	BENTO-DEMO-47	37	Postmenopausal	Dead	Other cancer	Native Hawaiian or Other Pacific Islander	Not Hispanic or Latino	Female	3359
+demographic_data	BENTO-CASE-48	BENTO-DEMO-48	30	Postmenopausal	Dead	Other chronic disease	Black or African American	Not Hispanic or Latino	Female	2002
+demographic_data	BENTO-CASE-49	BENTO-DEMO-49	50	Premenopausal	Dead	Protocol treatment	Asian	Not Hispanic or Latino	Female	2741
+demographic_data	BENTO-CASE-50	BENTO-DEMO-50	36	Premenopausal	Dead	Other	Asian	Not Hispanic or Latino	Female	866
